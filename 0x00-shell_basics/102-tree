@@ -1,2 +1,2 @@
 #!/bin/bash
-cp to/school/school .
+cp welcome/welcome to/welcome to school .
