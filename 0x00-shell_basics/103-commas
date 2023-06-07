@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -m [/* -l.* [[:alpha]]!. .. [[:digit]] [[:letter]] ]
+ls -m [/* -l.*,[[:alpha]]!. ..,[[:digit]][[:letter]]]
