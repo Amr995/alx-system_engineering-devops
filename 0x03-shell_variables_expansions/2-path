@@ -1,0 +1,2 @@
+#!/bin/bash
+explore PATH="$PATH:/action"
