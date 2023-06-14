@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -maxdepth -empty -iname
+find . -empty -printf "%f\n"
